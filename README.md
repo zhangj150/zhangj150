@@ -38,7 +38,7 @@ Whether it's coding or motorsports, I love to tinker, optimize, and push the bou
 ![](https://img.shields.io/badge/Tools-Azkaban-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2f97c1)
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2f97c1)
 ![](https://img.shields.io/badge/Tools-MapReduce-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2f97c1)
-![](https://img.shields.io/badge/Tools-Spark-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2f97c1)
+![](https://img.shields.io/badge/Tools-Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=2f97c1)
 
 <!-- 2bbc8a -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangj150&theme=blue-green&layout=compact" />
