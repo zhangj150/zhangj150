@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 Whether it's coding or auto-racing, I love to tinker, optimize, and push the boundaries of what is possible.
 
 Backend Software Engineer based in California
-![Image of Me](https://github.com/zhangj150/zhangj150/blob/master/picOfMETwinPeaks.JPG =250x)
+
+[Image of Me](https://github.com/zhangj150/zhangj150/blob/master/picOfMETwinPeaks.JPG =250x)
 
 Aspiring [Grandmaster Chess Puzzle Solver](https://lichess.org/@/zhangj150)
 
