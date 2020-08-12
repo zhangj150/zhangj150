@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Whether it's coding or auto-racing, I love to tinker, optimize, and push the boundaries of what is possible.
+
+Backend Software Engineer based in California
+
+Aspiring [Grandmaster Chess Puzzle Solver](https://lichess.org/@/zhangj150)
+
+Race Kart Driver -->
