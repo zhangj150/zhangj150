@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Whether it's coding or auto-racing, I love to tinker, optimize, and push the boundaries of what is possible.
+Whether it's coding or motorsports, I love to tinker, optimize, and push the boundaries of what is possible.
 
 | Backend Software Engineer based in California | Race Kart Driver  | Aspiring Grandmaster Chess Puzzle Solver  |
 |---|---|---|
