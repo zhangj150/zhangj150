@@ -21,6 +21,5 @@ Whether it's coding or auto-racing, I love to tinker, optimize, and push the bou
 |---|---|---|
 |  <p align="center"> <img src="https://github.com/zhangj150/zhangj150/blob/master/picOfMETwinPeaks.JPG" width="270" height="187.5"/></p> | <img src="https://github.com/zhangj150/zhangj150/blob/master/picOfMETwinPeaks.JPG" width="270" height="187.5"/>  | <p align="center"><a href="https://lichess.org/@/zhangj150"><img src="https://github.com/zhangj150/zhangj150/blob/master/chessuzzles.PNG" width="260" height="197.5"/></a></p> | 
 
-Aspiring [Grandmaster Chess Puzzle Solver](https://lichess.org/@/zhangj150)
 
 
