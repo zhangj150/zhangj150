@@ -32,12 +32,12 @@ Whether it's coding or motorsports, I love to tinker, optimize, and push the bou
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2f97c1)
 ![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2f97c1)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2f97c1)
-![](https://img.shields.io/badge/Tools-Espresso-informational?style=flat&logo=docker&logoColor=white&color=2f97c1)
+![](https://img.shields.io/badge/Tools-Espresso-informational?style=flat&logo=pycharm&logoColor=white&color=2f97c1)
 ![](https://img.shields.io/badge/Tools-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2f97c1)
-![](https://img.shields.io/badge/Tools-Hadoop-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2f97c1)
-![](https://img.shields.io/badge/Tools-Azkaban-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2f97c1)
+![](https://img.shields.io/badge/Tools-Hadoop-informational?style=flat&logo=pycharm&logoColor=white&color=2f97c1)
+![](https://img.shields.io/badge/Tools-Azkaban-informational?style=flat&logo=pycharm&logoColor=white&color=2f97c1)
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2f97c1)
-![](https://img.shields.io/badge/Tools-MapReduce-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2f97c1)
+![](https://img.shields.io/badge/Tools-MapReduce-informational?style=flat&logo=pycharm&logoColor=white&color=2f97c1)
 ![](https://img.shields.io/badge/Tools-Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=2f97c1)
 
 <!-- 2bbc8a -->
