@@ -19,7 +19,7 @@ Whether it's coding or auto-racing, I love to tinker, optimize, and push the bou
 
 Backend Software Engineer based in California
 
-![Image of Me](https://github.com/zhangj150/zhangj150/blob/master/picOfMETwinPeaks.JPG?v=4&s=200)
+![Image of Me](https://github.com/zhangj150/zhangj150/blob/master/picOfMETwinPeaks.JPG?v=4&s=100)
 
 Aspiring [Grandmaster Chess Puzzle Solver](https://lichess.org/@/zhangj150)
 
