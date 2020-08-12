@@ -40,4 +40,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-MapReduce-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Spark-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangj150&theme=blue-green&layout=compact" />
+
+
 
