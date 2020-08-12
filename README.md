@@ -19,7 +19,7 @@ Whether it's coding or auto-racing, I love to tinker, optimize, and push the bou
 
 | Backend Software Engineer based in California | Race Kart Driver  | Aspiring Grandmaster Chess Puzzle Solver  |
 |---|---|---|
-|  <p align="center"> <img src="https://github.com/zhangj150/zhangj150/blob/master/picOfMETwinPeaks.JPG" width="357.5" height="234.375"/></p> | <p align="center"><img src="https://github.com/zhangj150/zhangj150/blob/master/instaMaterial2.jpg" width="290" height="247.5"/></p>  | <p align="center"><a href="https://lichess.org/@/zhangj150"><img src="https://github.com/zhangj150/zhangj150/blob/master/chessuzzles.PNG" width="270" height="227.5"/></a></p> |
+|  <p align="center"> <img src="https://github.com/zhangj150/zhangj150/blob/master/picOfMETwinPeaks.JPG" width="214.5" height="140.625"/></p> | <p align="center"><img src="https://github.com/zhangj150/zhangj150/blob/master/instaMaterial2.jpg" width="174" height="148.5"/></p>  | <p align="center"><a href="https://lichess.org/@/zhangj150"><img src="https://github.com/zhangj150/zhangj150/blob/master/chessuzzles.PNG" width="162" height="136.5"/></a></p> |
 
 
 ## 🔧 Technologies & Tools
