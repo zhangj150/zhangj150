@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Whether it's coding or auto-racing, I love to tinker, optimize, and push the boundaries of what is possible.
 
 | Backend Software Engineer based in California | Race Kart Driver |
-|:--:| 
+|:--:| |:--:| 
 | <img src="https://github.com/zhangj150/zhangj150/blob/master/picOfMETwinPeaks.JPG" width="270" height="187.5"/> | <img src="https://github.com/zhangj150/zhangj150/blob/master/picOfMETwinPeaks.JPG" width="270" height="187.5"/> |
 
 Aspiring [Grandmaster Chess Puzzle Solver](https://lichess.org/@/zhangj150)
